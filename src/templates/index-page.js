@@ -2,7 +2,7 @@
 import { jsx } from "theme-ui"
 import { graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
-import { RiArrowRightSLine } from "react-icons/ri"
+import { RiArrowRightSLine, RiSpotifyFill } from "react-icons/ri"
 import {
   RiFacebookBoxFill,
   RiTwitterFill,
@@ -19,7 +19,10 @@ import {
   RiMediumFill,
   RiBehanceFill,
 } from "react-icons/ri"
-import { faTiktok, FaWordpress, FaVk } from "react-icons/fa"
+import {  
+  SiApplepodcasts, SiGooglepodcasts, SiSpotify
+} from "react-icons/si";
+import { FaTiktok, FaWordpress, FaVk } from "react-icons/fa"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
@@ -86,6 +89,28 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+         {icons.icon === "apple" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Facebook" rel="noopener noreferrer">
+            <SiApplepodcasts alt="Apple podcasts icon"/>
+          </a>
+        ) : (
+          ""
+        )}
+         {icons.icon === "google" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Facebook" rel="noopener noreferrer">
+            <SiGooglepodcasts alt="Google podcast icon"/>
+          </a>
+        ) : (
+          ""
+        )}
+         {icons.icon === "spotify" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Facebook" rel="noopener noreferrer">
+            <SiSpotify alt="Spotify icon"/>
+          </a>
+        ) : (
+          ""
+        )}
+
         {icons.icon === "twitter" ? (
           <a href={icons.url} target="_blank" aria-label="link to Twitter" rel="noopener noreferrer">
             <RiTwitterFill alt="Twitter icon"/>

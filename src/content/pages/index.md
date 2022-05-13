@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Yap-yangi podcast
+tagline: Jamshid Tursunboev va Rashid Juraev
+featuredImage: /assets/logo_wide.jpg
 cta:
-  ctaText: Know more
+  ctaText: Podcast haqida
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+O'zbek tilidagi ilmiy-ommabob mavzular bo'yicha suhbatlar. Har hafta o'zimizga qiziq bo'lgan mavzular yoki o'qigan kitoblarimiz to'g'risida gaplashamiz.

@@ -1,24 +1,20 @@
 {
   "socialIcons": [
     {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
+      "icon": "apple",
+      "url": "https://podcasts.apple.com/us/podcast/yap-yangi-podcast/id1624016740"
     },
     {
-      "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
+      "icon": "spotify",
+      "url": "https://open.spotify.com/show/1wxWoN2jjmMzlSdOwuOlf2"
     },
     {
-      "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "icon": "google",
+      "url": "https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5yZWRjaXJjbGUuY29tLzVjZjY4NzllLWUwN2QtNGUzNC04ZjAzLThmZjA3ODI2Y2ZlOA%3D%3D"
     },
     {
       "icon": "youtube",
-      "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
-    },
-    {
-      "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
+      "url": "https://www.youtube.com/channel/UCTw43IAHEVqZcDdmoVFfweg"
     }
   ]
 }
