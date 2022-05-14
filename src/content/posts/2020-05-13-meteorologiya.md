@@ -6,8 +6,17 @@ date: 2020-05-13 12:46
 description: Meteorologiya va ob-havo bashorati haqida suhbat
 featuredImage: /assets/meteorologiya-thumbnail.jpg
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hc6HZdkStXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="border: none;max-width: 100%;width:1px;min-width:100%;" height="170" scrolling="no" src="https://redcircle.com/embedded-player/sh/5cf6879e-e07d-4e34-8f03-8ff07826cfe8/ep/3094c52d-e78c-4512-99c6-24e177bbe998">
+</iframe>
+
 Bugungi sonda meteorologiya va ob-havo bashorati ilmining tarixi, rivojlanish bosqichlari va bugungi kundagi imkoniyatlari haqida gaplashamiz. Shu jumladan ob-havoga oid irimlar va qiziq faktlarni ham muhokama qilamiz.
 Ushbu episodni quyidagi havolalar orqali tinglashingiz mumkin:
+
+
+
 <style>
     .row {
     display: flex;
@@ -31,7 +40,3 @@ Ushbu episodni quyidagi havolalar orqali tinglashingiz mumkin:
   </div>
 </div>
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/5cf6879e-e07d-4e34-8f03-8ff07826cfe8/ep/3094c52d-e78c-4512-99c6-24e177bbe998"></script>
-
-</style>
-<p style="margin-top:3px;margin-left:11px;font-family: sans-serif;font-size: 10px; color: gray;">Powered by <a class="redcircle-link" href="https://redcircle.com?utm_source=rc_embedded_player&utm_medium=web&utm_campaign=embedded_v1">RedCircle</a></p>
