@@ -2,7 +2,7 @@
 template: blog-post
 title: Meteorologiya va ob-havo bashorati
 slug: /podcast/meteorologiya
-date: 2020-05-13 12:46
+date: 2022-05-13 12:46
 description: Meteorologiya va ob-havo bashorati haqida suhbat
 featuredImage: /assets/meteorologiya-thumbnail.jpg
 ---
