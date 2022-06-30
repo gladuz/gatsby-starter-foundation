@@ -10,7 +10,7 @@ description: Taivan Semiconductor Manufasturing Company (TSMC) oxirgi
   yuz berdi?
 featuredImage: /assets/tsmc-thumbnail.png
 ---
-<iframe width="560" height="315" src="https://youtu.be/t5pSHJz365s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t5pSHJz365s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe style="border: none;max-width: 100%;width:1px;min-width:100%;" height="170" scrolling="no" src="https://redcircle.com/embedded-player/sh/5cf6879e-e07d-4e34-8f03-8ff07826cfe8/ep/46c6f548-2cc1-43f8-83f8-8aa4a39a37db">
 </iframe>
