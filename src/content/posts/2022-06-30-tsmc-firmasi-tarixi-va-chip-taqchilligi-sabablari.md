@@ -8,6 +8,7 @@ description: Taivan Semiconductor Manufasturing Company (TSMC) oxirgi
   yangiliklarda ko‘p yangramoqda. Xo‘sh ushbu Tayvanda joylashgan bittagina
   kompaniya dunyo bozori uchun shunchalik muhimmi agar shunday bo‘lsa bu qanday
   yuz berdi?
+featuredImage: /assets/tsmc-thumbnail.png
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hc6HZdkStXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
